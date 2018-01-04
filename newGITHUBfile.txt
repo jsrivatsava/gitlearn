@@ -1,8 +1,6 @@
 File created from GITHUB!
 
-<<<<<<< HEAD
 This is modified from Terminal
 Tada!
 =======
 This is now MODIFIED!
->>>>>>> eb48be5142a1d84aaef987c28cdac56c3b55d4c2
